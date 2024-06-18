@@ -1,5 +1,5 @@
 /**
- * Wait for a number of milliseconds.
+ * Wait for a number of ms.
  *
  * @param {number} milliseconds The number of milliseconds to wait.
  * @returns {Promise<string>} Resolves with 'done!' after the wait is over.
